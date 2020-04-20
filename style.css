@@ -1,0 +1,95 @@
+body{
+background-color: #dfd8bf !important;
+}
+header{
+  color: black;
+  height: 80px;
+  margin-top: 70px;
+}
+footer{
+  color: white;
+background-color: #9a7b4f !important;
+}
+.navbar.bg-light {
+  background-color: #ad7949 !important;
+}
+
+.profile {
+ box-shadow: 0 3px 15px rgba(51, 51, 51, 0.2);
+background-color: #9a7b4f !important;
+text-align: center;
+
+margin-left: 10%;
+margin-right: 10%;
+}
+.profile img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+}
+
+.section .row{
+    margin-top: 7%;
+    margin-bottom: 10%;
+}
+.section .row .col-md-8{
+    margin-right: -2%;
+    padding: 5%;
+}
+.section .row .col-md-6{
+    margin-right: -2%;
+    padding: 3%;
+}
+.section .row .col-md-4{
+    margin-right: -2%;
+    padding: 5%;
+}
+.section .row .col-md-3{
+    margin-right: -2%;
+    padding: 5%;
+}
+.section h3{
+    color: #004085;
+}
+.section p{
+    margin-top: 10%;
+    color: #545b62;
+}
+.section img
+{
+    width: 100%;
+}
+
+.section .party
+{
+     box-shadow: 0 3px 15px rgba(51, 51, 51, 0.2);
+     border-radius: 5%;
+     margin-left: -2%;
+     padding: 0.31%;
+}
+.machine .row .col-md-3{
+box-shadow: 0 3px 15px rgba(51, 51, 51, 0.2);
+border-radius: 25px;
+text-align: center;
+margin: 4%;
+
+}
+.machine img
+{
+    width: 80%;
+}
+
+.machine h1{
+    color: #004085;
+    padding: 2%;
+    font-size: 32px;
+}
+.machine p{
+    margin-top: 10%;
+    font-weight: bold;
+}
+.machine .products
+{
+     box-shadow: 0 3px 15px rgba(51, 51, 51, 0.2);
+     border-radius: 5%;
+}
